@@ -19,4 +19,4 @@ In order to run this application, user should first set their data base and run 
 Upon completion then `npm run seed`
 
 A demo video has also been included and you can find it here:
-
+https://youtu.be/02g0ucjCT0o
